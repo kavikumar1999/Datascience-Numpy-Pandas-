@@ -1,14 +1,14 @@
 # Datascience-Numpy & Pandas
 
-##PANDAS
+## PANDAS
    ### Average Minimum
    ### Average Maximum
    ### Mean function
    ### Head,Tail,Describe,Info,Dropna
    
-##NUMPY
-   ### Linesspace
+## NUMPY
+   ### Linespace
    ### Repeat
    ### Random
-##MATPLOTLIB
+## MATPLOTLIB
    ### scatterPlot
