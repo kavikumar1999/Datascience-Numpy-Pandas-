@@ -11,7 +11,7 @@
    ### Repeat
    ### Random
 ## MATPLOTLIB
-   ### scatterPlot
+   ### ScatterPlot
    
 ## DATASETS   
    
